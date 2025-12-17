@@ -144,4 +144,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Desenvolvido com 💚 e auxílio de IA (GitHub Copilot)
+Desenvolvido com 💚 e auxílio de IA 
