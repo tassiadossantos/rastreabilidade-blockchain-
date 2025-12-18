@@ -1,6 +1,6 @@
 # 🌾 Rastreabilidade Agrícola com Blockchain
 
-Sistem de rastreabilidade de produtos agrícolas utilizando blockchain (Polygon) para garantir transparência e autenticidade em toda a cadeia produtiva.
+Sistema de rastreabilidade de produtos agrícolas utilizando blockchain (Polygon) para garantir transparência e autenticidade em toda a cadeia produtiva.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
